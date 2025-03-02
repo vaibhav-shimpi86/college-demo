@@ -1,4 +1,4 @@
 # college-demo
 This is my first repository.
 <br>
-Author - Vaibhav Shimpi
+Author - Vaibhav (Apna College)
